@@ -14,3 +14,4 @@ end
 
 Shoe.new("Adidas")
 Shoe.new("Nike")
+Shoe.color("Red")
