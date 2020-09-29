@@ -6,3 +6,6 @@ end
 def brand
   @brand
 end
+
+
+Shoe.new("Adidas")
