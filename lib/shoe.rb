@@ -12,6 +12,7 @@ attr_accessor :color, :size, :material, :condition, :cobble
   end
   def cobble
     puts "Your shoe is as good as new!"
+  end
 end
 
 Shoe.new("Adidas")
