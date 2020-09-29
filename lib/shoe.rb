@@ -17,3 +17,4 @@ end
 
 Shoe.new("Adidas")
 Shoe.new("Nike")
+Shoe.condition("New")
