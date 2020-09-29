@@ -10,6 +10,8 @@ attr_accessor :color, :size, :material, :condition, :cobble
   def color=(color)
     @color = color
   end
+  def cobble
+    puts "Your shoe is as good as new!"
 end
 
 Shoe.new("Adidas")
